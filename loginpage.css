@@ -1,0 +1,15 @@
+
+.foregroundcard{
+    margin-left: 75vh;
+    color: white;
+    background-color:rgb(198, 158, 158);
+    width: 50vh;
+    border-radius: 15px;
+    padding:40px ;
+
+}
+.buttons{
+    border-radius: 7px;
+    border: 10px;
+    border-color: black;
+}
