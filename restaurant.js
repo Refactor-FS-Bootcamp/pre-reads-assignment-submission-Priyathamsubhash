@@ -36,10 +36,10 @@ localStorage.setItem("Bookingdetails",JSON.stringify(details))
 Cus_Name=""
 Cus_Mobile=""
 Cus_Email=""
-custemor()
+customer();
 })
 
-function custemor(){
+function customer(){
 let Bookingdetails =localStorage.getItem("Bookingdetails")
 if(Bookingdetails== null){
 details=[]
@@ -71,7 +71,7 @@ else{
     document.getElementById("no-reserves").innerHTML=msg
 }
 }
-custemor()
+customer()
 
 
         
