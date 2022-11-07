@@ -1,0 +1,201 @@
+p{
+    font-size: larger;
+}
+.logo{
+    height: 60px;
+    width: 60;
+}
+.bg-image{
+    text-align: center;
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/foodmunch-banner-bg.png");
+    background-size: cover;
+    height: 100vh;
+}
+.heading{
+    font-size: 70px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+}
+.para{
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+}
+.button{
+    margin-right: 20px;
+    height: 40px;
+    width: 100px;
+    border-width:0px;
+    border-radius: 10px;
+    color: black;
+    background-color: rgb(255, 255, 62);
+    border-color:black;
+}
+.button2{
+    height: 40px;
+    width: 120px;
+    border-radius: 10px;
+    border-color: white;
+    border-width:1px;
+    color: white;
+    background-color:transparent;
+}
+.explore-menu-section{
+    background-color: white;
+}
+.menu-heading{
+    margin: 20px;
+    
+}
+.menu-name{
+    
+    font-size: x-large;
+}
+.menu-card{
+    border-color: #e5eaf4;
+    border-style: solid;
+    border-radius: 10px;
+    border-width: 1px;
+    text-align: center;
+}
+.explore-img{
+    border-radius: 20px;
+    height:30vh;
+    width: 30vh;
+    margin-top: 10px;
+}
+.view-all-button{
+    margin-bottom: 10px;
+}
+.booking-details{
+    background-image: url("https://wallpapercave.com/wp/wp1874155.jpg");
+    background-size: cover;
+    height: 170vh;
+    padding: 20px;
+    
+}
+.inputfeilds{
+    border-radius: 5px;
+    border-width: 0px;
+    height: 3vh;
+}
+.form-submit-btn{
+    height: 40px;
+    width: 120px;
+    border-radius: 10px;
+    border-color: white;
+    border-width:0px;
+    color: white;
+    background-color:rgb(0, 0, 0);  
+}
+.form-card{
+    margin-top: 10vh;
+    background-color:rgba(30, 27, 27, 0.897);
+    width: fit-content;
+    text-align: center;
+    padding: 40px;
+    border-radius: 10px;
+    color: #e5eaf4;
+    height: fit-content;
+}
+.registered-users-details{
+    background-color:rgba(30, 27, 27, 0.897);
+    width: fit-content;
+    height: fit-content;
+    text-align: center;
+    padding: 10px;
+    border-radius: 10px;
+    color: #e5eaf4;
+    float: left;
+    margin-top: 10px;
+    margin-left: 2vh;
+    
+}
+.offer-img{
+    height:50vh;
+    width: 50vh;
+    margin: 10px;
+    border-radius: 20px;
+}
+.offer-card{
+    text-align: center;
+}
+.ordernow-button{
+    margin-right: 20px;
+    height: 50px;
+    width: 120px;
+    border-width:0px;
+    border-radius: 10px;
+    color: black;
+    background-color: rgb(255, 255, 62);
+    border-color:black;
+}
+.payment-card{
+    margin: 20px;
+    text-align: center;
+    height: 40px;
+    width: 50px;
+}
+.bg-second{
+    background-color: white;
+}
+.whychoose-cards{
+    border-color: #e5eaf4;
+    border-style: solid;
+    border-radius: 10px;
+    border-width: 1px;
+    text-align: center;
+}
+.icons{
+    font-size: 35px;
+    color: black;
+}
+.followus-icons{
+    background-color: rgb(255, 255, 62);
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    margin: 15px;
+    padding-top: 22px;
+    padding-bottom: 14px;
+    padding-right: 16px;
+    padding-left: 22px;  
+}
+.contact-us{
+    padding: 10px;
+    text-align: center;
+    color: white;
+    background-color: black;
+
+}
+.back-button{
+    margin-right: 20px;
+    height: 40px;
+    width: 150px;
+    border-width:0px;
+    border-radius: 10px;
+    color: white;
+    background-color: black;
+    margin-left: 4vh;
+}
+.home-button{
+    margin-right: 4vh;
+    margin-right: 20px;
+    height: 40px;
+    width: 150px;
+    border-width:0px;
+    border-radius: 10px;
+    background-color: white;
+    margin-right: 5vh;
+
+}
+.back-to-menu-button{
+    margin-left: 4vh;
+    margin-right: 20px;
+    height: 40px;
+    width: 150px;
+    border-width:0px;
+    border-radius: 10px;
+    background-color: white;
+   
+}
