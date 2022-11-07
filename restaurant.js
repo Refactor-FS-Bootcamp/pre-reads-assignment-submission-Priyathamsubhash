@@ -16,7 +16,7 @@ Cus_Details_Button.addEventListener("click",function(e){
     var Cus_Mobile = document.getElementById("enter-mobile")
 
     if(Cus_Name.value =="" || Cus_Mobile.value ==""  || Cus_Email.value==""){
-        alert("Enter Required Details")
+        return alert("Enter Required Details")
     }
 let Bookingdetails=localStorage.getItem("Bookingdetails")
 if(Bookingdetails== null){
