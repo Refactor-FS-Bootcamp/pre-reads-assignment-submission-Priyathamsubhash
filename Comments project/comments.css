@@ -1,0 +1,45 @@
+.main-background{
+    background-color: rgb(212, 197, 174);
+}
+.inputfields{ 
+    width: 70%;
+    height: 5vh;
+    border-radius: 5px;
+    border-width: 0ch;
+}
+.first-card{
+    background-color: rgb(108, 156, 199);
+    border-color: black;
+    padding: 2%;
+    margin-top: 5%;
+    width: 45%;
+    border-radius: 15px;
+}
+.button{
+    margin-top: 2vh;
+    margin-left: 70%;
+    border-radius: 5px;
+    width: 7vh;
+    height: 3.5vh;
+    background-color: seagreen;
+    border-width: 0px; 
+}
+.registered-Comments{
+    text-align: start;
+    background-color: rgb(108, 156, 199);
+    border-color: black;
+    padding: 2%;
+    margin-top: 5%;
+    width: 45%;
+    border-radius: 15px;
+}
+.delete-icon{
+    
+    margin-left: 90%;
+}
+.dislike-icon{
+    margin-left: 2%;
+}
+.like-icon{
+    margin-left: 2%;
+}
