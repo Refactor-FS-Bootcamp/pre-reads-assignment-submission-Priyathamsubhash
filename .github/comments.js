@@ -5,7 +5,7 @@ let Like_count=0
 let Dislike_count=0
 Add_button.addEventListener("click",function(e){
     
-    if(User_Name.value=="" || User_Comment.value =="" ){
+    if(User_Name.value=="" || User_Comment.value =="" ){ 
         return alert("Please Enter The Required Details")
     }
     let Entered_Comment=localStorage.getItem("Entered_Comment")
